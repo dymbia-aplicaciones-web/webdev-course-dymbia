@@ -1,0 +1,10 @@
+# Archivos de entorno y configuración local
+.DS_Store
+Thumbs.db
+*.log
+
+# Carpetas de IDEs
+.idea/
+.vscode/
+*.suo
+*.user
