@@ -13,7 +13,14 @@ resource-path:
 metadata-files:
   - pandoc/lang/en-US.yaml
 
+metadata:
+  title: Fundamentos de Desarrollo Web
+  subtitle: Universidad Peruana de Ciencias Aplicadas · Aplicaciones Web · Equipo Dymbia
+
 variables:
+  titlepage: true
+  titlepage-text-color: "243047"
+  titlepage-rule-color: "435488"
   multirow: true
   disable-header-and-footer: true
   block-headings: true
