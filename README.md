@@ -23,14 +23,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 2: Estructura HTML Básica, Atributos y Párrafos (10 minutos)
 - **Descripción:** Aprende la anatomía de una página web (`<html>`, `<head>`, `<body>`), usa atributos como `lang="es"` e integra un párrafo de biografía.
-- **Enlace al video:** [Ver Lección 2 en YouTube](https://www.youtube.com/watch?v=example-link2)
+- **Enlace al video:** [Ver Lección 2 en YouTube](https://youtu.be/ptpzTBskzRM)
 - **Guía pedagógica:** [scripts/leccion-02.md](https://github.com/dymbia-aplicaciones-web/webdev-course-dymbia/blob/develop/scripts/lesson-02.md)
 - **Consejo clave:** Lo invisible va en el `<head>`; lo visible va en el `<body>`.
 - **Práctica:** [CodePen Starter](https://codepen.io/pen/?template=your-starter-02)
 
 ### Lección 3: Listas, Imágenes y Enlaces Interactivos (8 minutos)
 - **Descripción:** Enriquece tu perfil agregando una foto de avatar (`<img>`), una lista de pasatiempos (`<ul>`, `<li>`) y un enlace externo (`<a>`).
-- **Enlace al video:** [Ver Lección 3 en YouTube](https://www.youtube.com/watch?v=example-link3)
+- **Enlace al video:** [Ver Lección 3 en YouTube](https://youtu.be/wOwbm-Vx91o)
 - **Guía pedagógica:** [scripts/leccion-03.md](https://github.com/dymbia-aplicaciones-web/webdev-course-dymbia/blob/develop/scripts/lesson-03.md)
 - **Consejo clave:** La etiqueta `<img>` no necesita cierre; siempre usa el atributo `alt` por accesibilidad.
 - **Práctica:** [JSFiddle Starter](https://jsfiddle.net/your-fiddle-id)
