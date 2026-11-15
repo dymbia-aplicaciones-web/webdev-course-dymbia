@@ -60,7 +60,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## Recursos Adicionales
 
-- **Código Fuente Completo:** [Repositorio GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo:** [Repositorio GitHub](https://github.com/dymbia-aplicaciones-web/webdev-course-dymbia/tree/develop/completed-examples)
 - **Tabla de Actividades Prácticas:**
 
 | Lección | Tema / actividad | Inicio | Solución |
