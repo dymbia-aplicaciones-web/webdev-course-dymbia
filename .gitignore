@@ -8,3 +8,10 @@ Thumbs.db
 .vscode/
 *.suo
 *.user
+
+# Salidas generadas por Pandoc y Make
+/README.pdf
+/build/
+
+# Archivo de diagnóstico local
+/pandoc-error.txt
