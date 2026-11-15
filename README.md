@@ -16,7 +16,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es el Desarrollo Web y tu Primera Etiqueta? (5 minutos)
 - **Descripción:** Descubre cómo funciona la web y escribe tus primeras etiquetas HTML (`<h1>` y `<h2>`) en un editor en línea.
-- **Enlace al video:** [Ver Lección 1 en YouTube](https://www.youtube.com/watch?v=example-link1)
+- **Enlace al video:** [Ver Lección 1 en YouTube](https://youtu.be/vj8mmB0y_uE)
 - **Guía pedagógica:** [scripts/leccion-01.md](https://github.com/dymbia-aplicaciones-web/webdev-course-dymbia/blob/develop/scripts/lesson-01.md)
 - **Consejo clave:** HTML le da estructura al sitio (esqueleto) y CSS define su estilo (decoración).
 - **Práctica:** [CodePen Starter](https://codepen.io/pen/?template=your-starter-01)  *¡No requiere registro!*
