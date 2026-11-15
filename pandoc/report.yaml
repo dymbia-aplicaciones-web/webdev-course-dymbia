@@ -8,11 +8,10 @@ pdf-engine: lualatex
 
 resource-path:
   - .
-  - report
-  - report/assets
 
+# Cambia a pandoc/lang/es-ES.yaml si tu README.md está en español
 metadata-files:
-  - pandoc/lang/es-ES.yaml
+  - pandoc/lang/en-US.yaml
 
 variables:
   graphics: true
@@ -122,12 +121,5 @@ variables:
       }
 
 filters:
-  - pandoc-crossref
-  - citeproc
   - pandoc/filters/table-headers-autocenter.lua
   - pandoc/filters/table-row-lines.lua
-
-bibliography:
-  - report/bibliography/references.bib
-
-csl: pandoc/csl/apa-7.csl
