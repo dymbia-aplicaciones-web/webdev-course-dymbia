@@ -14,11 +14,14 @@ metadata-files:
   - pandoc/lang/en-US.yaml
 
 variables:
-  graphics: true
   multirow: true
   disable-header-and-footer: true
   block-headings: true
   tables: true
+  mainfont: "Calibri"
+  sansfont: "Calibri"
+  monofont: "Consolas"
+  graphics: true
   geometry:
     - margin=1in
   linestretch: 1.5
@@ -119,7 +122,10 @@ variables:
           \renewcommand{\listtablename}{Índice de tablas}%
         }{}%
       }
+      
+      
 
 filters:
   - pandoc/filters/table-headers-autocenter.lua
   - pandoc/filters/table-row-lines.lua
+
