@@ -51,7 +51,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 6: Errores Comunes, Código Limpio y Próximos Pasos (10 minutos)
 - **Descripción:** Aprende a diagnosticar fallas en HTML/CSS, aplica sangría (indentación) limpia y valida tu código con la W3C.
-- **Enlace al video:** [Ver Lección 6 en YouTube](https://www.youtube.com/watch?v=example-link6)
+- **Enlace al video:** [Ver Lección 6 en YouTube](https://youtu.be/NUJ5QqN2new)
 - **Guía pedagógica:** [scripts/leccion-06.md](scripts/leccion-06.md)
 - **Consejo clave:** Cierra todas las etiquetas y aplica siempre 2 espacios de sangría.
 - **Comparte tu trabajo:** [Formulario de Entrega](https://forms.gle/your-form)
