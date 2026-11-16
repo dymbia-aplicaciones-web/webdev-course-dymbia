@@ -16,21 +16,21 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es el Desarrollo Web y tu Primera Etiqueta? (5 minutos)
 - **Descripción:** Descubre cómo funciona la web y escribe tus primeras etiquetas HTML (`<h1>` y `<h2>`) en un editor en línea.
-- **Enlace al video:** [Ver Lección 1 en YouTube](https://www.youtube.com/watch?v=example-link1)
+- **Enlace al video:** [Ver Lección 1 en YouTube](https://youtu.be/vj8mmB0y_uE)
 - **Guía pedagógica:** [scripts/leccion-01.md](https://github.com/dymbia-aplicaciones-web/webdev-course-dymbia/blob/develop/scripts/lesson-01.md)
 - **Consejo clave:** HTML le da estructura al sitio (esqueleto) y CSS define su estilo (decoración).
 - **Práctica:** [CodePen Starter](https://codepen.io/pen/?template=your-starter-01)  *¡No requiere registro!*
 
 ### Lección 2: Estructura HTML Básica, Atributos y Párrafos (10 minutos)
 - **Descripción:** Aprende la anatomía de una página web (`<html>`, `<head>`, `<body>`), usa atributos como `lang="es"` e integra un párrafo de biografía.
-- **Enlace al video:** [Ver Lección 2 en YouTube](https://www.youtube.com/watch?v=example-link2)
+- **Enlace al video:** [Ver Lección 2 en YouTube](https://youtu.be/ptpzTBskzRM)
 - **Guía pedagógica:** [scripts/leccion-02.md](https://github.com/dymbia-aplicaciones-web/webdev-course-dymbia/blob/develop/scripts/lesson-02.md)
 - **Consejo clave:** Lo invisible va en el `<head>`; lo visible va en el `<body>`.
 - **Práctica:** [CodePen Starter](https://codepen.io/pen/?template=your-starter-02)
 
 ### Lección 3: Listas, Imágenes y Enlaces Interactivos (8 minutos)
 - **Descripción:** Enriquece tu perfil agregando una foto de avatar (`<img>`), una lista de pasatiempos (`<ul>`, `<li>`) y un enlace externo (`<a>`).
-- **Enlace al video:** [Ver Lección 3 en YouTube](https://www.youtube.com/watch?v=example-link3)
+- **Enlace al video:** [Ver Lección 3 en YouTube](https://youtu.be/wOwbm-Vx91o)
 - **Guía pedagógica:** [scripts/leccion-03.md](https://github.com/dymbia-aplicaciones-web/webdev-course-dymbia/blob/develop/scripts/lesson-03.md)
 - **Consejo clave:** La etiqueta `<img>` no necesita cierre; siempre usa el atributo `alt` por accesibilidad.
 - **Práctica:** [JSFiddle Starter](https://jsfiddle.net/your-fiddle-id)
@@ -44,14 +44,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 5: Proyecto Final: Mi Tarjeta de Perfil Digital (15 minutos)
 - **Descripción:** Utiliza el Modelo de Caja (`margin`, `padding`, `border`) con contenedores `<div>` y clases CSS para construir una tarjeta flotante y centrada.
-- **Enlace al video:** [Ver Lección 5 en YouTube](https://www.youtube.com/watch?v=example-link5)
+- **Enlace al video:** [Ver Lección 5 en YouTube](https://www.youtube.com/watch?v=gupN_DK8Kr0)
 - **Guía pedagógica:** [scripts/leccion-05.md](scripts/leccion-05.md)
 - **Consejo clave:** `margin` espacio exterior, `padding` espacio interior.
 - **Proyecto final:** [Replit Starter](https://replit.com/@your-final-project)  *¡Guarda y comparte!*
 
 ### Lección 6: Errores Comunes, Código Limpio y Próximos Pasos (10 minutos)
 - **Descripción:** Aprende a diagnosticar fallas en HTML/CSS, aplica sangría (indentación) limpia y valida tu código con la W3C.
-- **Enlace al video:** [Ver Lección 6 en YouTube](https://www.youtube.com/watch?v=example-link6)
+- **Enlace al video:** [Ver Lección 6 en YouTube](https://youtu.be/NUJ5QqN2new)
 - **Guía pedagógica:** [scripts/leccion-06.md](scripts/leccion-06.md)
 - **Consejo clave:** Cierra todas las etiquetas y aplica siempre 2 espacios de sangría.
 - **Comparte tu trabajo:** [Formulario de Entrega](https://forms.gle/your-form)
@@ -60,7 +60,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## Recursos Adicionales
 
-- **Código Fuente Completo:** [Repositorio GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Código Fuente Completo:** [Repositorio GitHub](https://github.com/dymbia-aplicaciones-web/webdev-course-dymbia/tree/develop/completed-examples)
 - **Tabla de Actividades Prácticas:**
 
 | Lección | Tema / actividad | Inicio | Solución |
