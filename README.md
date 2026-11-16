@@ -44,7 +44,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 5: Proyecto Final: Mi Tarjeta de Perfil Digital (15 minutos)
 - **Descripción:** Utiliza el Modelo de Caja (`margin`, `padding`, `border`) con contenedores `<div>` y clases CSS para construir una tarjeta flotante y centrada.
-- **Enlace al video:** [Ver Lección 5 en YouTube](https://www.youtube.com/watch?v=example-link5)
+- **Enlace al video:** [Ver Lección 5 en YouTube](https://www.youtube.com/watch?v=gupN_DK8Kr0)
 - **Guía pedagógica:** [scripts/leccion-05.md](scripts/leccion-05.md)
 - **Consejo clave:** `margin` espacio exterior, `padding` espacio interior.
 - **Proyecto final:** [Replit Starter](https://replit.com/@your-final-project)  *¡Guarda y comparte!*
