@@ -37,7 +37,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 4: Introducción a CSS (Selectores y Estilos Básicos) (12 minutos)
 - **Descripción:** Conecta una hoja de estilo externa (`style.css`), cambia fuentes, colores de fondo y transforma tu avatar en una foto circular.
-- **Enlace al video:** [Ver Lección 4 en YouTube](https://www.youtube.com/watch?v=example-link4)
+- **Enlace al video:** [Ver Lección 4 en YouTube](https://www.youtube.com/watch?v=9GlV7GqP6Cg)
 - **Guía pedagógica:** [scripts/leccion-04.md](https://github.com/dymbia-aplicaciones-web/webdev-course-dymbia/blob/develop/scripts/lesson-04.md)
 - **Consejo clave:** Vincular el CSS en el `<head>` mediante `<link rel="stylesheet" href="style.css">`.
 - **Práctica:** [CodePen Starter](https://codepen.io/pen/?template=your-starter-04)
