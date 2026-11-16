@@ -1,0 +1,17 @@
+# Archivos de entorno y configuración local
+.DS_Store
+Thumbs.db
+*.log
+
+# Carpetas de IDEs
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Salidas generadas por Pandoc y Make
+/README.pdf
+/build/
+
+# Archivo de diagnóstico local
+/pandoc-error.txt

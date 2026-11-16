@@ -1,0 +1,31 @@
+/* Lección 4: Introducción a CSS (solución) */
+
+/* 1. Estilo general de la página */
+body {
+  background-color: #f4f6f9;
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+/* 2. Título principal */
+h1 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* 3. Subtítulos con el mismo color */
+h2,
+h3 {
+  color: #2980b9;
+}
+
+/* 4. Avatar circular, centrado y con borde */
+img {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #3498db;
+}
